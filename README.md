@@ -1,15 +1,19 @@
-# react-movie-app
- 리액트를 공부하며 만든 영화 사이트입니다.
- 
-## 기능
+# Morethan Movies
 
-+ 실시간 영화순위
+영화 api를 이용해 영화에 대한 정보와 순위를 알려주는 react 기반 사이트로 fornt-end를 학습하고자 만들었습니다.
 
+![image](https://user-images.githubusercontent.com/72514247/107317180-79e06d80-6add-11eb-9b06-a9efd1840b78.png)
 
-## 미리보기
+## Skills
 
+### Front
 
+- Bootstrap
+- React
 
-## 이용해보자
+### link
 
 https://morethanmin.github.io/react-movie-app/
+
+
+
