@@ -8,8 +8,7 @@
 
 ### Front
 
-- Bootstrap
-- React
+`React` `Bootstrap`
 
 ### link
 
